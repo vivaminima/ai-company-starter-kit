@@ -2,6 +2,8 @@
 
 *Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
 
+<img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/ai-company-starter-kit.png" width="760" alt="ai-company-starter-kit: real output of the free version on a made-up sample">
+
 A starter kit you use with the Claude desktop app. It is a sample company made of folders. Each folder is a department, each Claude window works as one department, and the departments hand work to each other through files.
 
 ## New to this? Start here
