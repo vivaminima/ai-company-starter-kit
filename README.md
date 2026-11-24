@@ -2,6 +2,10 @@
 
 *Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
 
+<a href="https://vivastory4.gumroad.com/l/ai-company-starter-kit?utm_source=github&utm_medium=readme&utm_campaign=ai-company-starter-kit"><img src="https://raw.githubusercontent.com/vivaminima/ai-company-starter-kit/main/docs/how-it-works.png" width="760" alt="AI Company Starter Kit: how it works in four steps"></a>
+
+**Full edition ($19, one-time payment on Gumroad):** https://vivastory4.gumroad.com/l/ai-company-starter-kit?utm_source=github&utm_medium=readme&utm_campaign=ai-company-starter-kit
+
 <img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/ai-company-starter-kit.png" width="760" alt="ai-company-starter-kit: real output of the free version on a made-up sample">
 
 A starter kit you use with the Claude desktop app. It is a sample company made of folders. Each folder is a department, each Claude window works as one department, and the departments hand work to each other through files.
